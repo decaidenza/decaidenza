@@ -1,5 +1,7 @@
 ### Hi, I'm Lucas!
 
+Programador PHP há quase um 1 ano, buscando aprender mais tecnologias referente a linguagem e estudando a fundo outras áreas.
+
 ### Languages
 
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)

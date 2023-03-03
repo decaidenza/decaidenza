@@ -1,6 +1,6 @@
 ### Hi, I'm Lucas!
 
-Programador PHP há quase um 1 ano, buscando aprender mais tecnologias referente a linguagem e estudando a fundo outras áreas.
+Programador PHP há quase um 1 ano, sempre buscando a forma mais simples de codificar.
 
 ### Languages
 

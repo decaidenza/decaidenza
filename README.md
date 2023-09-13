@@ -1,6 +1,6 @@
 ### Hi, I'm Lucas!
 
-Programador PHP há 1 ano, sempre buscando a forma mais simples de codificar.
+Programador PHP há 2 anos, sempre buscando a forma mais simples e produtiva de codificar.
 
 ### Languages
 

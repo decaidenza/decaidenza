@@ -1,18 +1,28 @@
-### Hi, I'm Lucas!
+### Hi there! I'm Lucas Santos
+##
 
-Programador PHP há 2 anos, sempre buscando a forma mais simples e produtiva de codificar.
+- Backend developer for 2 years. Always working on personal projects.
 
+### Personal
+- Developing **LieURL**
+- Working on the ambitious **DataDash Project** - A simple, elegant, and open-source file manager for the *Play Station 2*.
+<br>
 
 <div align="center">
   <a href="https://github.com/DecaiDenza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DecaiDenza&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DecaiDenza&layout=compact&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DecaiDenza&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DecaiDenza&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=DecaiDenza&theme=tokyonight&hide_border=true"/>
 </div>
 
 <br>
 <br>
 
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=flat&logo=php&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
+<div align="center" style="display: inline_block"><br>
+  <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="css" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="php" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+  <img align="center" alt="csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-line.svg">
+  
+</div>

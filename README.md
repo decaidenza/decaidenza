@@ -4,17 +4,7 @@
 - Backend developer for 2 years. Always working on personal projects.
 
 ### Personal
-- Developing **LieURL**
-- Working on the ambitious **DataDash Project** - A simple, elegant, and open-source file manager for the *Play Station 2*.
-<br>
-
-<div align="center">
-  <a href="https://github.com/DecaiDenza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DecaiDenza&theme=tokyonight&show_icons=true&hide_border=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DecaiDenza&theme=tokyonight&show_icons=true&hide_border=true&layout=compact"/>
-</div>
-
-<br>
+- Learning C# and ReactJS
 <br>
 
 <div align="center" style="display: inline_block"><br>
